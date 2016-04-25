@@ -1,3 +1,4 @@
+#!/bin/sh
 /bin/cat <<EOM >$vpnserver
 #!/bin/sh
 # chkconfig: 2345 99 01
